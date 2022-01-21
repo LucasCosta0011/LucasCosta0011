@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Costa
-- 👀 I’m interested in Java and anyone framework.
-- 🌱 I’m currently learning Javascript, C#, HTML/CSS in a technical high school.
+- 👀 I’m interested in join job market fast, so, some projects will stand by.
+- 🌱 I’m currently learning Javascript, C#, HTML/CSS in a technical high school. At the same time learning alone react, nodejs and bootstrap.
 - 💞️ I’m looking to collaborate on front-end and back-end.
 - 📫 How to reach me lucascosta.developer@gmail.com
 
