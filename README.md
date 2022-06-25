@@ -4,3 +4,8 @@
 - 🚀 I’m looking to collaborate on back-end.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCosta0011&theme=dark&show_icons=true)](https://github.com/LucasCosta0011/LucasCosta0011)
+
+<div style="display: inline-block;">
+  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</div>
