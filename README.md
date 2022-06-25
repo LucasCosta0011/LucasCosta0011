@@ -18,7 +18,9 @@
   <img align="center" width="40" height="40" rel="logo-bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
           
 </div>
+
 ##
+
 <div>
   <img align="center" width="40" height="40" rel="logo-bootstrap" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" width="40" height="40" rel="logo-bootstrap" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
