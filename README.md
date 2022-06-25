@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Costa
 - 👀 I’m interested in join area of system development.
-- 🌱 I’m currently learning DataBase, Javascript, C# for Android with xamarin, HTML/CSS, PHP and JAVA in a technical high school. At the same time learning react, nodejs and bootstrap.
+- 🌱 At the moment I am study system development at Etec.
 - 🖤 I’m looking to collaborate on back-end.
 
 ##
