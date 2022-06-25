@@ -20,6 +20,6 @@
 </div>
 ##
 <div>
-  https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+  <img align="center" width="40" height="40" rel="logo-bootstrap" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" width="40" height="40" rel="logo-bootstrap" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
