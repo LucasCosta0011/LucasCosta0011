@@ -10,6 +10,10 @@
 
 ##
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascosta0011&theme=blue-green">
+
+
+
 <div style="display: inline-block;">
   
   <img align="center" width="40" height="40" rel="logo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
