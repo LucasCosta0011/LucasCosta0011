@@ -20,6 +20,7 @@
   
   <h4>Linguagem de programação</h4>
   
+  <img align="center" width="40" height="40" rel="logo-nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
   <img align="center" width="40" height="40" rel="logo-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" width="40" height="40" rel="logo-java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" width="40" height="40" rel="logo-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
